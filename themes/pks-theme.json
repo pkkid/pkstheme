@@ -55,6 +55,7 @@
         "beginning.punctuation.definition.list.markdown",
         "constant.other.caps.python",
         "entity.name.function",
+        "entity.name.function.js",
         "entity.name.tag",
         "entity.name.variable",
         "meta.object-literal.key.js",
