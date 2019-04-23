@@ -1,0 +1,32 @@
+{
+	"name": "pks-theme",
+	"displayName": "PKs Theme",
+	"description": "Color theme for VSCode that follows the KISS principle",
+	"version": "1.0.0",
+	"publisher": "pkkid",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pkkid/vscode-pks-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "PKs Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pks-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "eb7b798e-653b-11e9-8c48-0bed250384af",
+		"publisherId": "ec647210-653b-11e9-83ee-83505db9dee5",
+		"publisherDisplayName": "pkkid"
+	}
+}
