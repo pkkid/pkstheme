@@ -20,7 +20,7 @@
 			{
 				"label": "PKs Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/pks-theme.json"
+				"path": "./pks-theme.json"
 			}
 		]
 	},
