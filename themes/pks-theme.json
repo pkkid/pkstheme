@@ -113,6 +113,7 @@
         "constant.language.python",
         "entity.other.inherited-class",
         "source.css support.constant.property-value.css",
+        "constant.language.json.comments",
       ],
     },{
       "name": "Green",
