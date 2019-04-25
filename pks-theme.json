@@ -47,6 +47,8 @@
     "tab.activeForeground": "#ccc",
     "tab.inactiveBackground": "#0000",
     "tab.inactiveForeground": "#cff4",
+    "terminal.background" : "#111",
+    "terminal.foreground" : "#0f0",
   },
   "tokenColors": [{
       "name": "Red",
