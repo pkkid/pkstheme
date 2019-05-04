@@ -1,0 +1,56 @@
+<style-scheme id="PKsScheme" _name="PKsScheme" version="1.0">
+<author>Michael Shepanski</author>
+<_description>Dark color scheme using the Tango color palette</_description>
+<style name="line-numbers" foreground="#474747" background="#140E0E"/>
+<style name="text" foreground="#FF0000" background="#000000"/>
+<style name="selection" foreground="#EEEEEC" background="#46003F"/>
+<style name="cursor" foreground="#D3D7CF"/>
+<style name="current-line" background="#0B0707"/>
+<style name="bracket-match" foreground="#FF3333" background="#002B27"/>
+<style name="c:boolean" foreground="#FF3333"/>
+<style name="c:char" foreground="#FFBF7F"/>
+<style name="c:comment" foreground="#00BF00"/>
+<style name="c:common-defines" foreground="#FF3333"/>
+<style name="c:decimal" foreground="#60B5B7"/>
+<style name="c:error" foreground="#FFF700"/>
+<style name="c:escaped-character" foreground="#C0BFBF"/>
+<style name="c:floating-point" foreground="#60B5B7"/>
+<style name="c:hexadecimal" foreground="#60B5B7"/>
+<style name="c:included-file" foreground="#C0BFBF"/>
+<style name="c:keyword" foreground="#007FFF"/>
+<style name="c:octal" foreground="#C0BFBF"/>
+<style name="c:preprocessor" foreground="#C443AF"/>
+<style name="c:printf" foreground="#807F7F"/>
+<style name="c:storage-class"/>
+<style name="c:string" foreground="#807F7F"/>
+<style name="c:type" foreground="#007FFF"/>
+<style name="def:comment" foreground="#00BF00"/>
+<style name="def:constant" foreground="#C0BFBF"/>
+<style name="def:doc-comment-element" foreground="#8ABF00"/>
+<style name="def:error" foreground="#FDF500"/>
+<style name="def:floating-point" foreground="#CE5B00"/>
+<style name="def:identifier" foreground="#729FCF"/>
+<style name="def:note" foreground="#00BF00"/>
+<style name="def:special-char" foreground="#CE5B00"/>
+<style name="def:special-constant" foreground="#CE5B00"/>
+<style name="def:statement" foreground="#FFFFFF"/>
+<style name="def:string" foreground="#C0BFBF"/>
+<style name="def:type" foreground="#007FFF"/>
+<style name="python:base-n-integer" foreground="#60BFBF"/>
+<style name="python:boolean" foreground="#FF3333"/>
+<style name="python:builtin-constant" foreground="#FF3333"/>
+<style name="python:builtin-function" foreground="#007FFF"/>
+<style name="python:builtin-object" foreground="#FFBF7F"/>
+<style name="python:complex" foreground="#FF7F00"/>
+<style name="python:decimal" foreground="#60BFBF"/>
+<style name="python:escaped-char" foreground="#C0BFBF"/>
+<style name="python:floating-point" foreground="#60BFBF"/>
+<style name="python:format" foreground="#FF00EF"/>
+<style name="python:keyword" foreground="#007FFF"/>
+<style name="python:module-handler" foreground="#007FFF"/>
+<style name="python:multiline-string" foreground="#807F7F"/>
+<style name="python:special-variable" foreground="#FF3333"/>
+<style name="python:string" foreground="#C0BFBF"/>
+<style name="python:string-conversion" foreground="#00FFFC"/>
+<style name="bracket-mismatch" foreground="#FBFF00"/>
+</style-scheme>

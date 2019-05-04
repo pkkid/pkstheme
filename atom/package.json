@@ -1,0 +1,15 @@
+{
+  "name": "pks-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A color scheme that was forced on me at RIT back in 2002.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/pks-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

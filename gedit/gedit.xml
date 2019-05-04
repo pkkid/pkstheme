@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Author: Michael Shepanski
+
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later version.
+
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+
+ You should have received a copy of the GNU Library General Public
+ License along with this library; if not, write to the
+ Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+ Boston, MA 02111-1307, USA.
+-->
+
+<style-scheme id="PKsScheme" _name="PKs Color Scheme" version="1.0">
+
+  <author>Michael Shepanski</author>
+  <_description>Old color scheme from CS at RIT</_description>
+
+  <!-- Text Palette -->
+  <color name="Grey"       value="#808080"/>
+  <color name="White"      value="#C0C0C0"/>
+  <color name="Green"      value="#00C000"/>
+  <color name="Red"        value="#EB2828"/>
+  <color name="RedOrange"  value="#FF3333"/>
+  <color name="Orange"     value="#FF621F"/>
+  <color name="Pink"       value="#FF0090"/>
+  <color name="Blue"       value="#369AFF"/>
+  <color name="Peach"      value="#FFC080"/>
+  <color name="Yellow"     value="#FFDD00"/>
+  
+  <!-- Background Palette -->
+  <color name="Black"      value="#080808"/>
+  <color name="Brown"      value="#422E00"/>
+  <color name="Purple"     value="#383861"/>
+
+  <!-- Global Settings -->
+  <style name="text" foreground="Red" background="Black"/>
+  <style name="selection" foreground="#white" background="Purple"/>
+  <style name="cursor" foreground="White"/>
+
+  <!-- Margins -->
+  <style name="current-line" background="#090909"/> 
+  <style name="line-numbers" foreground="#666666" background="#222222"/>
+  <style name="right-margin" background="#444444"/>
+
+  <!-- Bracket Matching -->
+  <style name="bracket-match" foreground="Orange" background="Black"/>
+  <style name="bracket-mismatch" foreground="Orange" background="Black"/>
+  
+  <!-- Search Matching -->
+  <style name="search-match" background="Brown"/>
+
+  <!-- Comments & Preprocessors -->
+  <style name="def:comment" foreground="Green"/>
+  <style name="def:shebang" foreground="Green"/>
+  <style name="def:doc-comment-element" foreground="Green"/>
+  <style name="def:preprocessor" foreground="Green"/>
+  <style name="def:in-comment" foreground="Green"/>
+
+  <!-- Constants -->
+  <style name="def:constant" foreground="White"/>
+  <style name="def:base-n-integer" foreground="White"/>
+  <style name="def:complex" foreground="White"/>
+  <style name="def:decimal" foreground="White"/>
+  <style name="def:string" foreground="Grey"/>
+  <style name="def:special-char" foreground="Grey"/>
+  <style name="def:special-constant" foreground="Orange"/>
+  <style name="def:floating-point" foreground="White"/>
+  <style name="def:function" foreground="Peach"/>
+
+  <!-- Identifiers -->
+  <style name="def:identifier" foreground="Red"/>
+  <style name="def:statement" foreground="Yellow"/>
+  <style name="def:operator" forground="Orange"/>
+  <style name="def:type" foreground="Orange"/>
+  <style name="def:keyword" foreground="Blue"/> 
+  <style name="def:preprocessor" foreground="Blue"/>
+  <style name="def:error" foreground="White"/>
+  <style name="def:underlined"/>
+
+</style-scheme>
+
