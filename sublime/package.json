@@ -7,9 +7,9 @@
     "publisher": "Michael Shepanski",
     "contributes": {
         "themes": [{
-            "label": "PKsTheme",
+            "label": "PKs Theme",
             "uiTheme": "vs-dark",
-            "path": "./PKsTheme.tmTheme"
+            "path": "./pkstheme.tmTheme"
         }]
     }
 }

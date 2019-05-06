@@ -6,7 +6,7 @@
 	"publisher": "pkkid",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pkkid/vscode-pks-theme.git"
+		"url": "https://github.com/pkkid/pkstheme.git"
 	},
 	"engines": {
 		"vscode": "^1.26.0"
@@ -20,7 +20,7 @@
 			{
 				"label": "PKs Theme",
 				"uiTheme": "vs-dark",
-				"path": "./pks-theme.json"
+				"path": "./pkstheme.json"
 			}
 		]
 	},
