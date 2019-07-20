@@ -9,8 +9,6 @@
     "list.activeSelectionBackground": "#665c54",
     "list.focusBackground": "#665c54",
     "list.highlightForeground": "#d79921",
-    "terminal.background" : "#111",
-    "terminal.foreground" : "#0f0",
   },
   "tokenColors": [{
       "name": "Red",
