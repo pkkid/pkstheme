@@ -16,6 +16,8 @@
       "scope": [
         "beginning.punctuation.definition.list.markdown",
         "constant.other.caps.python",
+        "meta.function-call.js",
+        "meta.function.expression.js",
         "entity.name.function.js",
         "entity.name.function",
         "entity.name.tag",
@@ -90,6 +92,9 @@
         "comment",
         "keyword.codetag.notation",
         "string.quoted.docstring.multi.python",
+        "storage.type.class.jsdoc",
+        "entity.name.type.instance.jsdoc",
+        "variable.other.jsdoc",
       ],
     },{
       "name": "Blue",
